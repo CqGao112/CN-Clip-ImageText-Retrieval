@@ -177,3 +177,5 @@ python app.py
 [Text2Image-Retrieval](https://github.com/sugarandgugu/Text2Image-Retrieval/tree/main)
 
 [Chinese-CLIP](https://github.com/OFA-Sys/Chinese-CLIP)
+
+感谢上述项目的贡献！
